@@ -1,0 +1,17 @@
+# Dependencies (project is build-free; nothing should normally land here)
+node_modules/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Logs & local scratch
+*.log
+.cache/
+dist/
+build/
+.tmp/
