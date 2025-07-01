@@ -1,0 +1,28 @@
+{
+  "name": "vr-minux-io",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Browser-based WebXR test lab for the Minux ecosystem, built with Three.js.",
+  "type": "module",
+  "scripts": {
+    "serve": "python3 -m http.server 5173",
+    "test": "node tests/run.mjs"
+  },
+  "keywords": [
+    "webxr",
+    "vr",
+    "ar",
+    "threejs",
+    "minux",
+    "spatial-computing"
+  ],
+  "author": "Hector Miranda",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorMiranda/vr.minux.io.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
