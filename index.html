@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0b0e14" />
+    <title>vr.minux.io — WebXR Test Lab</title>
+    <meta
+      name="description"
+      content="Browser-based WebXR test lab for the Minux ecosystem, built with Three.js."
+    />
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles/reset.css" />
+    <link rel="stylesheet" href="styles/tokens.css" />
+    <link rel="stylesheet" href="styles/launcher.css" />
+
+    <!-- Three.js is loaded straight from a CDN; no build step required. -->
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark">▦</span>
+          <span class="brand-name">vr.minux.io</span>
+          <span class="brand-tag">WebXR Test Lab</span>
+        </div>
+        <div id="caps" class="caps" aria-live="polite"></div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <input id="search" class="search" type="search" placeholder="Filter tests…" />
+          <nav id="categories" class="categories"></nav>
+        </aside>
+
+        <section class="content">
+          <div id="grid" class="grid"></div>
+          <div id="stage" class="stage" hidden>
+            <div class="stage-bar">
+              <button id="back" class="btn">← Back</button>
+              <span id="stage-title" class="stage-title"></span>
+              <span id="xr-slot" class="xr-slot"></span>
+            </div>
+            <div id="canvas-host" class="canvas-host"></div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="statusbar">
+        <span id="status">Ready.</span>
+      </footer>
+    </div>
+
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
