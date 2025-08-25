@@ -2,3 +2,4 @@
 // Grows as scenes are added.
 import './hello-cube.js';
 import './axes-helper.js';
+import './billboard-sprites.js';
