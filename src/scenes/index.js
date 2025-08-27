@@ -3,3 +3,4 @@
 import './hello-cube.js';
 import './axes-helper.js';
 import './billboard-sprites.js';
+import './clock-3d.js';
