@@ -6,3 +6,4 @@ import './billboard-sprites.js';
 import './clock-3d.js';
 import './color-grid.js';
 import './line-drawing.js';
+import './points-cloud.js';
