@@ -9,3 +9,4 @@ import './line-drawing.js';
 import './points-cloud.js';
 import './primitives-gallery.js';
 import './spinning-torus.js';
+import './transform-hierarchy.js';
