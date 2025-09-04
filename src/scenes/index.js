@@ -11,3 +11,4 @@ import './primitives-gallery.js';
 import './spinning-torus.js';
 import './transform-hierarchy.js';
 import './wireframe.js';
+import './convex-hull.js';
