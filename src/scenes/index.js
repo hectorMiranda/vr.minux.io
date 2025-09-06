@@ -14,3 +14,4 @@ import './wireframe.js';
 import './convex-hull.js';
 import './extrude-shape.js';
 import './heightfield-terrain.js';
+import './instanced-forest.js';
