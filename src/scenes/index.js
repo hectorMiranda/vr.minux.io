@@ -17,3 +17,4 @@ import './heightfield-terrain.js';
 import './instanced-forest.js';
 import './lathe-vase.js';
 import './morph-targets.js';
+import './parametric-surface.js';
