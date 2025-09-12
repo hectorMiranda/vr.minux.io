@@ -20,3 +20,4 @@ import './morph-targets.js';
 import './parametric-surface.js';
 import './subdivision-lod.js';
 import './text-geometry-3d.js';
+import './tube-knot.js';
