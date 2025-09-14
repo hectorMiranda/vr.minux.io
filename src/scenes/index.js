@@ -22,3 +22,4 @@ import './subdivision-lod.js';
 import './text-geometry-3d.js';
 import './tube-knot.js';
 import './button-presses.js';
+import './controller-haptics.js';
