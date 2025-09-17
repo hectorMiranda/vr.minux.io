@@ -25,3 +25,4 @@ import './button-presses.js';
 import './controller-haptics.js';
 import './controller-models-demo.js';
 import './controller-rays.js';
+import './squeeze-grip.js';
