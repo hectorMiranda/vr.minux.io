@@ -27,3 +27,4 @@ import './controller-models-demo.js';
 import './controller-rays.js';
 import './squeeze-grip.js';
 import './thumbstick-readout.js';
+import './trigger-pressure.js';
