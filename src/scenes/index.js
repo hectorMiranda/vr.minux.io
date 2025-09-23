@@ -31,3 +31,4 @@ import './trigger-pressure.js';
 import './hand-joints.js';
 import './hand-menu.js';
 import './hand-ray.js';
+import './hand-skeleton.js';
