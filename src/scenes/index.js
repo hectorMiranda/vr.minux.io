@@ -34,3 +34,4 @@ import './hand-ray.js';
 import './hand-skeleton.js';
 import './pinch-detect.js';
 import './button-3d-press.js';
+import './distance-grab.js';
