@@ -38,3 +38,4 @@ import './distance-grab.js';
 import './drag-plane.js';
 import './gaze-select.js';
 import './grab-objects.js';
+import './hover-highlight.js';
