@@ -40,3 +40,4 @@ import './gaze-select.js';
 import './grab-objects.js';
 import './hover-highlight.js';
 import './rotate-handle.js';
+import './snap-points.js';
