@@ -41,3 +41,4 @@ import './grab-objects.js';
 import './hover-highlight.js';
 import './rotate-handle.js';
 import './snap-points.js';
+import './throw-objects.js';
