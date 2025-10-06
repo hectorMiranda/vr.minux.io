@@ -43,3 +43,4 @@ import './rotate-handle.js';
 import './snap-points.js';
 import './throw-objects.js';
 import './two-hand-scale.js';
+import './blink-move.js';
