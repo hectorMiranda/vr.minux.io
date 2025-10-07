@@ -45,3 +45,4 @@ import './throw-objects.js';
 import './two-hand-scale.js';
 import './blink-move.js';
 import './dash-move.js';
+import './elevator-platform.js';
