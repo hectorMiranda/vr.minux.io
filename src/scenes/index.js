@@ -47,3 +47,4 @@ import './blink-move.js';
 import './dash-move.js';
 import './elevator-platform.js';
 import './fly-move.js';
+import './smooth-locomotion.js';
