@@ -49,3 +49,4 @@ import './elevator-platform.js';
 import './fly-move.js';
 import './smooth-locomotion.js';
 import './snap-turn-demo.js';
+import './teleport-arc.js';
