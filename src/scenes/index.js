@@ -50,3 +50,4 @@ import './fly-move.js';
 import './smooth-locomotion.js';
 import './snap-turn-demo.js';
 import './teleport-arc.js';
+import './teleport-marker.js';
