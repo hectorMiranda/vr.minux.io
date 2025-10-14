@@ -52,3 +52,4 @@ import './snap-turn-demo.js';
 import './teleport-arc.js';
 import './teleport-marker.js';
 import './context-menu.js';
+import './follow-hud.js';
