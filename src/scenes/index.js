@@ -56,3 +56,4 @@ import './follow-hud.js';
 import './ui-buttons.js';
 import './ui-color-picker.js';
 import './ui-keyboard.js';
+import './ui-panel.js';
