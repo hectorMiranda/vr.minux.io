@@ -59,3 +59,4 @@ import './ui-keyboard.js';
 import './ui-panel.js';
 import './ui-radio.js';
 import './ui-slider.js';
+import './ui-tabs.js';
