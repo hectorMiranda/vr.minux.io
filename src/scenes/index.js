@@ -60,3 +60,4 @@ import './ui-panel.js';
 import './ui-radio.js';
 import './ui-slider.js';
 import './ui-tabs.js';
+import './ui-toggle.js';
