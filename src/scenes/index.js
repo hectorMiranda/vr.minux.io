@@ -62,3 +62,4 @@ import './ui-slider.js';
 import './ui-tabs.js';
 import './ui-toggle.js';
 import './wrist-menu.js';
+import './world-label.js';
