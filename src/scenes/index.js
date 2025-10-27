@@ -65,3 +65,4 @@ import './wrist-menu.js';
 import './world-label.js';
 import './canvas-texture.js';
 import './day-night.js';
+import './decals.js';
