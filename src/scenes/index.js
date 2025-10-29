@@ -67,3 +67,4 @@ import './canvas-texture.js';
 import './day-night.js';
 import './decals.js';
 import './env-reflections.js';
+import './fog-demo.js';
