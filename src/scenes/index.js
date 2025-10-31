@@ -68,3 +68,4 @@ import './day-night.js';
 import './decals.js';
 import './env-reflections.js';
 import './fog-demo.js';
+import './mirror-portal.js';
