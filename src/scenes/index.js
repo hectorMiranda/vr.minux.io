@@ -70,3 +70,4 @@ import './env-reflections.js';
 import './fog-demo.js';
 import './mirror-portal.js';
 import './normal-mapping.js';
+import './pbr-materials.js';
