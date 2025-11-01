@@ -69,3 +69,4 @@ import './decals.js';
 import './env-reflections.js';
 import './fog-demo.js';
 import './mirror-portal.js';
+import './normal-mapping.js';
