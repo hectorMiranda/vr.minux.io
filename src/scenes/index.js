@@ -71,3 +71,4 @@ import './fog-demo.js';
 import './mirror-portal.js';
 import './normal-mapping.js';
 import './pbr-materials.js';
+import './shadows-demo.js';
