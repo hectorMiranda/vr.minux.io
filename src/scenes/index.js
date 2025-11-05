@@ -74,3 +74,4 @@ import './pbr-materials.js';
 import './shadows-demo.js';
 import './skybox-gradient.js';
 import './transmission-glass.js';
+import './video-texture-fallback.js';
