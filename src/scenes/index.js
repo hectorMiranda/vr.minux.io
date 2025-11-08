@@ -76,3 +76,4 @@ import './skybox-gradient.js';
 import './transmission-glass.js';
 import './video-texture-fallback.js';
 import './draw-call-monitor.js';
+import './fps-stress-ramp.js';
