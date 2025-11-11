@@ -80,3 +80,4 @@ import './fps-stress-ramp.js';
 import './instanced-stress.js';
 import './lod-stress.js';
 import './merged-geometry.js';
+import './points-stress.js';
