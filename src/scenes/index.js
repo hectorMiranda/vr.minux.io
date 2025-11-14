@@ -82,3 +82,4 @@ import './lod-stress.js';
 import './merged-geometry.js';
 import './points-stress.js';
 import './cloth-sim.js';
+import './particle-fountain.js';
