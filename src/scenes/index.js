@@ -84,3 +84,4 @@ import './points-stress.js';
 import './cloth-sim.js';
 import './particle-fountain.js';
 import './physics-stack.js';
+import './trail-ribbon.js';
