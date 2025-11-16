@@ -85,3 +85,4 @@ import './cloth-sim.js';
 import './particle-fountain.js';
 import './physics-stack.js';
 import './trail-ribbon.js';
+import './audio-reactive.js';
