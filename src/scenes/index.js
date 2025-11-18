@@ -87,3 +87,4 @@ import './physics-stack.js';
 import './trail-ribbon.js';
 import './audio-reactive.js';
 import './spatial-audio.js';
+import './ar-anchors.js';
