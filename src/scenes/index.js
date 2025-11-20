@@ -88,3 +88,4 @@ import './trail-ribbon.js';
 import './audio-reactive.js';
 import './spatial-audio.js';
 import './ar-anchors.js';
+import './ar-dom-overlay.js';
