@@ -91,3 +91,4 @@ import './ar-anchors.js';
 import './ar-dom-overlay.js';
 import './ar-hit-test.js';
 import './ar-light-estimation.js';
+import './ar-measure.js';
