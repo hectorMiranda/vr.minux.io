@@ -93,3 +93,4 @@ import './ar-hit-test.js';
 import './ar-light-estimation.js';
 import './ar-measure.js';
 import './ar-passthrough.js';
+import './ar-place-objects.js';
