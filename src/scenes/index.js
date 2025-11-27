@@ -95,3 +95,4 @@ import './ar-measure.js';
 import './ar-passthrough.js';
 import './ar-place-objects.js';
 import './ar-plane-detect.js';
+import './ar-reticle.js';
