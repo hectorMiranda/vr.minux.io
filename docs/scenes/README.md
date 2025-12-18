@@ -8,3 +8,4 @@ One reference page per scene in the lab.
 - [3D Analog Clock](clock-3d.md) — _Basics_ · A working 3-D analog clock whose hands track the real wall-clock time.
 - [Color Grid](color-grid.md) — _Basics_ · A grid of small cubes sweeping hue (columns) and lightness (rows).
 - [Line Drawing](line-drawing.md) — _Basics_ · An animated Lissajous figure drawn with THREE.Line updating its buffer each frame.
+- [Points Cloud](points-cloud.md) — _Basics_ · Several thousand vertex-colored points arranged as a spiral galaxy, slowly rotating.
