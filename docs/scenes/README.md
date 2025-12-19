@@ -9,3 +9,4 @@ One reference page per scene in the lab.
 - [Color Grid](color-grid.md) — _Basics_ · A grid of small cubes sweeping hue (columns) and lightness (rows).
 - [Line Drawing](line-drawing.md) — _Basics_ · An animated Lissajous figure drawn with THREE.Line updating its buffer each frame.
 - [Points Cloud](points-cloud.md) — _Basics_ · Several thousand vertex-colored points arranged as a spiral galaxy, slowly rotating.
+- [Primitives Gallery](primitives-gallery.md) — _Basics_ · A row of all common Three.js primitives slowly rotating side by side.
