@@ -10,3 +10,4 @@ One reference page per scene in the lab.
 - [Line Drawing](line-drawing.md) — _Basics_ · An animated Lissajous figure drawn with THREE.Line updating its buffer each frame.
 - [Points Cloud](points-cloud.md) — _Basics_ · Several thousand vertex-colored points arranged as a spiral galaxy, slowly rotating.
 - [Primitives Gallery](primitives-gallery.md) — _Basics_ · A row of all common Three.js primitives slowly rotating side by side.
+- [Spinning Torus Knot](spinning-torus.md) — _Basics_ · A torus knot with a standard PBR material rotating on two axes.
