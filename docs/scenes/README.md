@@ -12,3 +12,4 @@ One reference page per scene in the lab.
 - [Primitives Gallery](primitives-gallery.md) — _Basics_ · A row of all common Three.js primitives slowly rotating side by side.
 - [Spinning Torus Knot](spinning-torus.md) — _Basics_ · A torus knot with a standard PBR material rotating on two axes.
 - [Transform Hierarchy](transform-hierarchy.md) — _Basics_ · Sun, planet, and moon demonstrating nested parent-child Transform rotations.
+- [Wireframe Toggle](wireframe.md) — _Basics_ · An icosahedron that smoothly fades between solid and wireframe render modes.
