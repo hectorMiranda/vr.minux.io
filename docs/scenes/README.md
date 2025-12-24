@@ -14,3 +14,4 @@ One reference page per scene in the lab.
 - [Transform Hierarchy](transform-hierarchy.md) — _Basics_ · Sun, planet, and moon demonstrating nested parent-child Transform rotations.
 - [Wireframe Toggle](wireframe.md) — _Basics_ · An icosahedron that smoothly fades between solid and wireframe render modes.
 - [Convex Hull](convex-hull.md) — _Geometry_ · A ConvexGeometry built around 30 random points, shown semi-transparent with wireframe overlay.
+- [Extruded Star Shape](extrude-shape.md) — _Geometry_ · A 5-pointed star shape extruded with bevel using THREE.ExtrudeGeometry.
