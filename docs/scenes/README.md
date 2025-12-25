@@ -15,3 +15,4 @@ One reference page per scene in the lab.
 - [Wireframe Toggle](wireframe.md) — _Basics_ · An icosahedron that smoothly fades between solid and wireframe render modes.
 - [Convex Hull](convex-hull.md) — _Geometry_ · A ConvexGeometry built around 30 random points, shown semi-transparent with wireframe overlay.
 - [Extruded Star Shape](extrude-shape.md) — _Geometry_ · A 5-pointed star shape extruded with bevel using THREE.ExtrudeGeometry.
+- [Heightfield Terrain](heightfield-terrain.md) — _Geometry_ · A plane displaced by layered sine noise into rolling terrain with elevation-based vertex colors.
