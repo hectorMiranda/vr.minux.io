@@ -16,3 +16,4 @@ One reference page per scene in the lab.
 - [Convex Hull](convex-hull.md) — _Geometry_ · A ConvexGeometry built around 30 random points, shown semi-transparent with wireframe overlay.
 - [Extruded Star Shape](extrude-shape.md) — _Geometry_ · A 5-pointed star shape extruded with bevel using THREE.ExtrudeGeometry.
 - [Heightfield Terrain](heightfield-terrain.md) — _Geometry_ · A plane displaced by layered sine noise into rolling terrain with elevation-based vertex colors.
+- [Instanced Forest](instanced-forest.md) — _Geometry_ · Hundreds of low-poly instanced trees with gentle wind-sway animation.
