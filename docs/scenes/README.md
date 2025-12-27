@@ -17,3 +17,4 @@ One reference page per scene in the lab.
 - [Extruded Star Shape](extrude-shape.md) — _Geometry_ · A 5-pointed star shape extruded with bevel using THREE.ExtrudeGeometry.
 - [Heightfield Terrain](heightfield-terrain.md) — _Geometry_ · A plane displaced by layered sine noise into rolling terrain with elevation-based vertex colors.
 - [Instanced Forest](instanced-forest.md) — _Geometry_ · Hundreds of low-poly instanced trees with gentle wind-sway animation.
+- [Lathe Vase](lathe-vase.md) — _Geometry_ · A ceramic-style vase built with LatheGeometry from a hand-crafted profile curve.
