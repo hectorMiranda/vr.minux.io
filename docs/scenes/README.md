@@ -18,3 +18,4 @@ One reference page per scene in the lab.
 - [Heightfield Terrain](heightfield-terrain.md) — _Geometry_ · A plane displaced by layered sine noise into rolling terrain with elevation-based vertex colors.
 - [Instanced Forest](instanced-forest.md) — _Geometry_ · Hundreds of low-poly instanced trees with gentle wind-sway animation.
 - [Lathe Vase](lathe-vase.md) — _Geometry_ · A ceramic-style vase built with LatheGeometry from a hand-crafted profile curve.
+- [Morph Targets](morph-targets.md) — _Geometry_ · A mesh with morph attributes smoothly blending between a sphere and a cube.
