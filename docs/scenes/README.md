@@ -20,3 +20,4 @@ One reference page per scene in the lab.
 - [Lathe Vase](lathe-vase.md) — _Geometry_ · A ceramic-style vase built with LatheGeometry from a hand-crafted profile curve.
 - [Morph Targets](morph-targets.md) — _Geometry_ · A mesh with morph attributes smoothly blending between a sphere and a cube.
 - [Parametric Surface](parametric-surface.md) — _Geometry_ · An animated ripple surface generated with ParametricGeometry, rebuilt each frame.
+- [Subdivision LOD](subdivision-lod.md) — _Geometry_ · An icosahedron shown at five increasing tessellation levels side by side.
