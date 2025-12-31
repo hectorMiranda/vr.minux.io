@@ -21,3 +21,4 @@ One reference page per scene in the lab.
 - [Morph Targets](morph-targets.md) — _Geometry_ · A mesh with morph attributes smoothly blending between a sphere and a cube.
 - [Parametric Surface](parametric-surface.md) — _Geometry_ · An animated ripple surface generated with ParametricGeometry, rebuilt each frame.
 - [Subdivision LOD](subdivision-lod.md) — _Geometry_ · An icosahedron shown at five increasing tessellation levels side by side.
+- [3D Text Geometry](text-geometry-3d.md) — _Geometry_ · Extruded 3D text "MINUX" via TextGeometry; falls back to box placeholders if the font fails.
