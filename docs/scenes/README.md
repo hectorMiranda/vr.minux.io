@@ -23,3 +23,4 @@ One reference page per scene in the lab.
 - [Subdivision LOD](subdivision-lod.md) — _Geometry_ · An icosahedron shown at five increasing tessellation levels side by side.
 - [3D Text Geometry](text-geometry-3d.md) — _Geometry_ · Extruded 3D text "MINUX" via TextGeometry; falls back to box placeholders if the font fails.
 - [Tube Knot](tube-knot.md) — _Geometry_ · A TubeGeometry swept along a CatmullRomCurve3 trefoil path, gently spinning.
+- [Button Presses](button-presses.md) — _Input_ · Visualizes each gamepad button as a bar that fills and lights when pressed; auto-animates on desktop.
