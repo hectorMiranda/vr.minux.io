@@ -24,3 +24,4 @@ One reference page per scene in the lab.
 - [3D Text Geometry](text-geometry-3d.md) — _Geometry_ · Extruded 3D text "MINUX" via TextGeometry; falls back to box placeholders if the font fails.
 - [Tube Knot](tube-knot.md) — _Geometry_ · A TubeGeometry swept along a CatmullRomCurve3 trefoil path, gently spinning.
 - [Button Presses](button-presses.md) — _Input_ · Visualizes each gamepad button as a bar that fills and lights when pressed; auto-animates on desktop.
+- [Controller Haptics](controller-haptics.md) — _Input_ · Buttons that fire haptic pulses of varying intensity and duration; visual flash confirms each pulse.
