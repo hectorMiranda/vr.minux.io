@@ -25,3 +25,4 @@ One reference page per scene in the lab.
 - [Tube Knot](tube-knot.md) — _Geometry_ · A TubeGeometry swept along a CatmullRomCurve3 trefoil path, gently spinning.
 - [Button Presses](button-presses.md) — _Input_ · Visualizes each gamepad button as a bar that fills and lights when pressed; auto-animates on desktop.
 - [Controller Haptics](controller-haptics.md) — _Input_ · Buttons that fire haptic pulses of varying intensity and duration; visual flash confirms each pulse.
+- [Controller Models Demo](controller-models-demo.md) — _Input_ · Shows a procedural controller model (body + ring + trigger) attached to each grip space.
