@@ -27,3 +27,4 @@ One reference page per scene in the lab.
 - [Controller Haptics](controller-haptics.md) — _Input_ · Buttons that fire haptic pulses of varying intensity and duration; visual flash confirms each pulse.
 - [Controller Models Demo](controller-models-demo.md) — _Input_ · Shows a procedural controller model (body + ring + trigger) attached to each grip space.
 - [Controller Rays](controller-rays.md) — _Input_ · Both controllers cast colored ray lines; a canvas label reports which hands are connected.
+- [Squeeze Grip](squeeze-grip.md) — _Input_ · A stylized hand that closes its fingers proportionally to the squeeze/grip value.
