@@ -30,3 +30,4 @@ One reference page per scene in the lab.
 - [Squeeze Grip](squeeze-grip.md) — _Input_ · A stylized hand that closes its fingers proportionally to the squeeze/grip value.
 - [Thumbstick Readout](thumbstick-readout.md) — _Input_ · Shows a 2D crosshair panel tracking thumbstick x/y for each controller; auto-circles on desktop.
 - [Trigger Pressure](trigger-pressure.md) — _Input_ · A bar that fills proportionally to the analog trigger value for each controller.
+- [Hand Joints](hand-joints.md) — _Hands_ · Renders all 25 hand joints as colored spheres; pulses when tracking is active.
