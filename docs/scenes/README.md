@@ -33,3 +33,4 @@ One reference page per scene in the lab.
 - [Hand Joints](hand-joints.md) — _Hands_ · Renders all 25 hand joints as colored spheres; pulses when tracking is active.
 - [Hand Menu](hand-menu.md) — _Hands_ · Shows a radial menu above the left palm when it faces the user; auto-shows on desktop.
 - [Hand Ray](hand-ray.md) — _Hands_ · Casts a ray from the hand and highlights target spheres when the ray intersects them.
+- [Hand Skeleton](hand-skeleton.md) — _Hands_ · Connects hand joints with line segments forming a full hand skeleton.
