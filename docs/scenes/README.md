@@ -35,3 +35,4 @@ One reference page per scene in the lab.
 - [Hand Ray](hand-ray.md) — _Hands_ · Casts a ray from the hand and highlights target spheres when the ray intersects them.
 - [Hand Skeleton](hand-skeleton.md) — _Hands_ · Connects hand joints with line segments forming a full hand skeleton.
 - [Pinch Detect](pinch-detect.md) — _Hands_ · Detects thumb-index pinch and spawns a marker at the pinch point; auto-demos on desktop.
+- [3D Button Press](button-3d-press.md) — _Interaction_ · Physical 3D buttons that depress when poked and emit a click event.
