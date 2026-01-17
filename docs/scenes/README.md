@@ -37,3 +37,4 @@ One reference page per scene in the lab.
 - [Pinch Detect](pinch-detect.md) — _Hands_ · Detects thumb-index pinch and spawns a marker at the pinch point; auto-demos on desktop.
 - [3D Button Press](button-3d-press.md) — _Interaction_ · Physical 3D buttons that depress when poked and emit a click event.
 - [Distance Grab](distance-grab.md) — _Interaction_ · Point the controller ray at a distant object and pull it in on select.
+- [Drag Plane](drag-plane.md) — _Interaction_ · Drag a puck around a table-top plane using the select trigger.
