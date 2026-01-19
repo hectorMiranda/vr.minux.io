@@ -39,3 +39,4 @@ One reference page per scene in the lab.
 - [Distance Grab](distance-grab.md) — _Interaction_ · Point the controller ray at a distant object and pull it in on select.
 - [Drag Plane](drag-plane.md) — _Interaction_ · Drag a puck around a table-top plane using the select trigger.
 - [Gaze Select](gaze-select.md) — _Interaction_ · Objects fill a progress ring and trigger when looked at for ~1.5 s.
+- [Grab Objects](grab-objects.md) — _Interaction_ · Grab and release small cubes with the grip button.
