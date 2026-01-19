@@ -40,3 +40,4 @@ One reference page per scene in the lab.
 - [Drag Plane](drag-plane.md) — _Interaction_ · Drag a puck around a table-top plane using the select trigger.
 - [Gaze Select](gaze-select.md) — _Interaction_ · Objects fill a progress ring and trigger when looked at for ~1.5 s.
 - [Grab Objects](grab-objects.md) — _Interaction_ · Grab and release small cubes with the grip button.
+- [Hover Highlight](hover-highlight.md) — _Interaction_ · Cubes that scale and tint when the controller ray (or auto-sweep on desktop) points at them.
