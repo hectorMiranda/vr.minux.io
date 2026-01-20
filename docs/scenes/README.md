@@ -41,3 +41,4 @@ One reference page per scene in the lab.
 - [Gaze Select](gaze-select.md) — _Interaction_ · Objects fill a progress ring and trigger when looked at for ~1.5 s.
 - [Grab Objects](grab-objects.md) — _Interaction_ · Grab and release small cubes with the grip button.
 - [Hover Highlight](hover-highlight.md) — _Interaction_ · Cubes that scale and tint when the controller ray (or auto-sweep on desktop) points at them.
+- [Rotate Handle](rotate-handle.md) — _Interaction_ · A box with a ring handle you grab to rotate it around the Y axis.
