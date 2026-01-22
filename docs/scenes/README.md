@@ -43,3 +43,4 @@ One reference page per scene in the lab.
 - [Hover Highlight](hover-highlight.md) — _Interaction_ · Cubes that scale and tint when the controller ray (or auto-sweep on desktop) points at them.
 - [Rotate Handle](rotate-handle.md) — _Interaction_ · A box with a ring handle you grab to rotate it around the Y axis.
 - [Snap Points](snap-points.md) — _Interaction_ · Draggable pieces that snap to the nearest of several socket positions when released.
+- [Throw Objects](throw-objects.md) — _Interaction_ · Grabbed objects keep velocity on release and arc under gravity.
