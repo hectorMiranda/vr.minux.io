@@ -44,3 +44,4 @@ One reference page per scene in the lab.
 - [Rotate Handle](rotate-handle.md) — _Interaction_ · A box with a ring handle you grab to rotate it around the Y axis.
 - [Snap Points](snap-points.md) — _Interaction_ · Draggable pieces that snap to the nearest of several socket positions when released.
 - [Throw Objects](throw-objects.md) — _Interaction_ · Grabbed objects keep velocity on release and arc under gravity.
+- [Two-Hand Scale](two-hand-scale.md) — _Interaction_ · Grab an object with both controllers and scale it by the distance between them.
