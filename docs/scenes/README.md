@@ -46,3 +46,4 @@ One reference page per scene in the lab.
 - [Throw Objects](throw-objects.md) — _Interaction_ · Grabbed objects keep velocity on release and arc under gravity.
 - [Two-Hand Scale](two-hand-scale.md) — _Interaction_ · Grab an object with both controllers and scale it by the distance between them.
 - [Blink Move](blink-move.md) — _Locomotion_ · Teleport with a fade-to-black blink overlay masking the position change.
+- [Dash Move](dash-move.md) — _Locomotion_ · Quick eased dash toward where the controller points using easeOutCubic.
