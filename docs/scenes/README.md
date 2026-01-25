@@ -45,3 +45,4 @@ One reference page per scene in the lab.
 - [Snap Points](snap-points.md) — _Interaction_ · Draggable pieces that snap to the nearest of several socket positions when released.
 - [Throw Objects](throw-objects.md) — _Interaction_ · Grabbed objects keep velocity on release and arc under gravity.
 - [Two-Hand Scale](two-hand-scale.md) — _Interaction_ · Grab an object with both controllers and scale it by the distance between them.
+- [Blink Move](blink-move.md) — _Locomotion_ · Teleport with a fade-to-black blink overlay masking the position change.
