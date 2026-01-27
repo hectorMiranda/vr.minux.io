@@ -48,3 +48,4 @@ One reference page per scene in the lab.
 - [Blink Move](blink-move.md) — _Locomotion_ · Teleport with a fade-to-black blink overlay masking the position change.
 - [Dash Move](dash-move.md) — _Locomotion_ · Quick eased dash toward where the controller points using easeOutCubic.
 - [Elevator Platform](elevator-platform.md) — _Locomotion_ · Stand on a platform that automatically rises and lowers between floors; the rig tracks the platform.
+- [Fly Move](fly-move.md) — _Locomotion_ · Free 6DoF flight controlled by controller orientation and trigger; auto-flies through a ring course on desktop.
