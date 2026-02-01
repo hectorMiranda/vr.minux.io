@@ -53,3 +53,4 @@ One reference page per scene in the lab.
 - [Snap Turn](snap-turn-demo.md) — _Locomotion_ · Pillars arranged in a circle; snap-turn rotates the view 30° per flick with a compass heading indicator.
 - [Teleport Arc](teleport-arc.md) — _Locomotion_ · A floor with scattered pillars; teleport around using a parabolic arc. Desktop shows an animated sweep.
 - [Teleport Marker](teleport-marker.md) — _Locomotion_ · Landing marker styles (ring + normal alignment) on uneven blocks with a sweeping arc indicator.
+- [Context Menu](context-menu.md) — _UI_ · A context menu that opens near a clicked object, cycling through actions.
