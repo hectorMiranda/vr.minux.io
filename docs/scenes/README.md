@@ -55,3 +55,4 @@ One reference page per scene in the lab.
 - [Teleport Marker](teleport-marker.md) — _Locomotion_ · Landing marker styles (ring + normal alignment) on uneven blocks with a sweeping arc indicator.
 - [Context Menu](context-menu.md) — _UI_ · A context menu that opens near a clicked object, cycling through actions.
 - [Follow HUD](follow-hud.md) — _UI_ · A camera-attached HUD panel that displays live position and frame counter.
+- [UI Buttons](ui-buttons.md) — _UI_ · Three Button3D widgets that change a cube\
