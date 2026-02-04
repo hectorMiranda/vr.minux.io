@@ -56,3 +56,4 @@ One reference page per scene in the lab.
 - [Context Menu](context-menu.md) — _UI_ · A context menu that opens near a clicked object, cycling through actions.
 - [Follow HUD](follow-hud.md) — _UI_ · A camera-attached HUD panel that displays live position and frame counter.
 - [UI Buttons](ui-buttons.md) — _UI_ · Three Button3D widgets that change a cube\
+- [UI Color Picker](ui-color-picker.md) — _UI_ · Hue and saturation sliders that tint a sphere in real time.
