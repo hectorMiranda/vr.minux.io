@@ -57,3 +57,4 @@ One reference page per scene in the lab.
 - [Follow HUD](follow-hud.md) — _UI_ · A camera-attached HUD panel that displays live position and frame counter.
 - [UI Buttons](ui-buttons.md) — _UI_ · Three Button3D widgets that change a cube\
 - [UI Color Picker](ui-color-picker.md) — _UI_ · Hue and saturation sliders that tint a sphere in real time.
+- [UI Keyboard](ui-keyboard.md) — _UI_ · A 3D QWERTY key grid that appends characters to a canvas-label display.
