@@ -59,3 +59,4 @@ One reference page per scene in the lab.
 - [UI Color Picker](ui-color-picker.md) — _UI_ · Hue and saturation sliders that tint a sphere in real time.
 - [UI Keyboard](ui-keyboard.md) — _UI_ · A 3D QWERTY key grid that appends characters to a canvas-label display.
 - [UI Panel](ui-panel.md) — _UI_ · A rounded backing panel displaying a title and several static text rows.
+- [UI Radio](ui-radio.md) — _UI_ · Mutually-exclusive radio button options with a highlighted active state.
