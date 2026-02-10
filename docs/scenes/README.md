@@ -62,3 +62,4 @@ One reference page per scene in the lab.
 - [UI Radio](ui-radio.md) — _UI_ · Mutually-exclusive radio button options with a highlighted active state.
 - [UI Slider](ui-slider.md) — _UI_ · A Slider3D widget that continuously scales a cube from small to large.
 - [UI Tabs](ui-tabs.md) — _UI_ · A tabbed panel with three tabs that cycle through different content views.
+- [UI Toggle](ui-toggle.md) — _UI_ · A Toggle3D switch that turns a point light on and off; auto-cycles on desktop.
