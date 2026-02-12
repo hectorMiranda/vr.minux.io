@@ -63,3 +63,4 @@ One reference page per scene in the lab.
 - [UI Slider](ui-slider.md) — _UI_ · A Slider3D widget that continuously scales a cube from small to large.
 - [UI Tabs](ui-tabs.md) — _UI_ · A tabbed panel with three tabs that cycle through different content views.
 - [UI Toggle](ui-toggle.md) — _UI_ · A Toggle3D switch that turns a point light on and off; auto-cycles on desktop.
+- [Wrist Menu](wrist-menu.md) — _UI_ · A Menu widget attached to the left controller grip, summoned by squeeze.
