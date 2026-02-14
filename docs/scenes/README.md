@@ -65,3 +65,4 @@ One reference page per scene in the lab.
 - [UI Toggle](ui-toggle.md) — _UI_ · A Toggle3D switch that turns a point light on and off; auto-cycles on desktop.
 - [Wrist Menu](wrist-menu.md) — _UI_ · A Menu widget attached to the left controller grip, summoned by squeeze.
 - [World Labels](world-label.md) — _Text_ · Floating CanvasTexture labels rendered above world-space objects.
+- [Canvas Texture](canvas-texture.md) — _Rendering_ · A live 2D canvas animation (spirograph trails + particle swarm) streamed as a CanvasTexture onto a panel each frame.
