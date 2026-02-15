@@ -67,3 +67,4 @@ One reference page per scene in the lab.
 - [World Labels](world-label.md) — _Text_ · Floating CanvasTexture labels rendered above world-space objects.
 - [Canvas Texture](canvas-texture.md) — _Rendering_ · A live 2D canvas animation (spirograph trails + particle swarm) streamed as a CanvasTexture onto a panel each frame.
 - [Day-Night Cycle](day-night.md) — _Rendering_ · A scene cycles through dawn, noon, dusk, and night over 24 s; lighting, sky colour, stars, and moon all animate smoothly.
+- [Decals](decals.md) — _Rendering_ · DecalGeometry star splats projected onto a rotating box; falls back to flat textured patches if the addon is unavailable.
