@@ -69,3 +69,4 @@ One reference page per scene in the lab.
 - [Day-Night Cycle](day-night.md) — _Rendering_ · A scene cycles through dawn, noon, dusk, and night over 24 s; lighting, sky colour, stars, and moon all animate smoothly.
 - [Decals](decals.md) — _Rendering_ · DecalGeometry star splats projected onto a rotating box; falls back to flat textured patches if the addon is unavailable.
 - [Env Reflections](env-reflections.md) — _Rendering_ · PMREM environment generated from a procedural equirect gradient canvas; two rows of spheres vary roughness and metalness.
+- [Fog Demo](fog-demo.md) — _Rendering_ · A corridor of pillars under animated linear and exponential fog; the mode switches every 5 s and density breathes continuously.
