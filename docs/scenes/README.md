@@ -71,3 +71,4 @@ One reference page per scene in the lab.
 - [Env Reflections](env-reflections.md) — _Rendering_ · PMREM environment generated from a procedural equirect gradient canvas; two rows of spheres vary roughness and metalness.
 - [Fog Demo](fog-demo.md) — _Rendering_ · A corridor of pillars under animated linear and exponential fog; the mode switches every 5 s and density breathes continuously.
 - [Mirror Portal](mirror-portal.md) — _Rendering_ · A Reflector (three/addons) mirror panel in a decorated frame; falls back to a shiny MeshStandardMaterial if the addon is unavailable.
+- [Normal Mapping](normal-mapping.md) — _Rendering_ · A procedurally generated normal map (canvas → per-pixel normals) applied to a sphere and plane, lit by an orbiting point light.
