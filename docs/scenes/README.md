@@ -72,3 +72,4 @@ One reference page per scene in the lab.
 - [Fog Demo](fog-demo.md) — _Rendering_ · A corridor of pillars under animated linear and exponential fog; the mode switches every 5 s and density breathes continuously.
 - [Mirror Portal](mirror-portal.md) — _Rendering_ · A Reflector (three/addons) mirror panel in a decorated frame; falls back to a shiny MeshStandardMaterial if the addon is unavailable.
 - [Normal Mapping](normal-mapping.md) — _Rendering_ · A procedurally generated normal map (canvas → per-pixel normals) applied to a sphere and plane, lit by an orbiting point light.
+- [PBR Materials](pbr-materials.md) — _Rendering_ · A 5×5 grid of spheres spanning roughness (rows) × metalness (cols) under a rotating three-point light rig.
