@@ -73,3 +73,4 @@ One reference page per scene in the lab.
 - [Mirror Portal](mirror-portal.md) — _Rendering_ · A Reflector (three/addons) mirror panel in a decorated frame; falls back to a shiny MeshStandardMaterial if the addon is unavailable.
 - [Normal Mapping](normal-mapping.md) — _Rendering_ · A procedurally generated normal map (canvas → per-pixel normals) applied to a sphere and plane, lit by an orbiting point light.
 - [PBR Materials](pbr-materials.md) — _Rendering_ · A 5×5 grid of spheres spanning roughness (rows) × metalness (cols) under a rotating three-point light rig.
+- [Shadows Demo](shadows-demo.md) — _Rendering_ · Multiple objects cast and receive PCFSoft shadows from an orbiting directional light; the shadow-camera helper toggles on/off every 4 s.
