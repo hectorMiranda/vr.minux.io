@@ -76,3 +76,4 @@ One reference page per scene in the lab.
 - [Shadows Demo](shadows-demo.md) — _Rendering_ · Multiple objects cast and receive PCFSoft shadows from an orbiting directional light; the shadow-camera helper toggles on/off every 4 s.
 - [Skybox Gradient](skybox-gradient.md) — _Rendering_ · An inverted sphere with a GLSL sky shader cycles through dawn, noon, dusk, and night with an animated sun disc and horizon glow.
 - [Transmission Glass](transmission-glass.md) — _Rendering_ · A MeshPhysicalMaterial glass sphere with transmission/IOR/thickness over a colourful procedural backdrop.
+- [Video Texture Fallback](video-texture-fallback.md) — _Rendering_ · Uses VideoTexture via captureStream if available; falls back to an animated CanvasTexture — never requires a real video file.
