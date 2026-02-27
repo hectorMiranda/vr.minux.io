@@ -79,3 +79,4 @@ One reference page per scene in the lab.
 - [Video Texture Fallback](video-texture-fallback.md) — _Rendering_ · Uses VideoTexture via captureStream if available; falls back to an animated CanvasTexture — never requires a real video file.
 - [Draw Call Monitor](draw-call-monitor.md) — _Performance_ · 
 - [FPS Stress Ramp](fps-stress-ramp.md) — _Performance_ · 
+- [Instanced Stress](instanced-stress.md) — _Performance_ · 
