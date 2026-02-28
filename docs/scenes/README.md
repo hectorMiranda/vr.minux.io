@@ -80,3 +80,4 @@ One reference page per scene in the lab.
 - [Draw Call Monitor](draw-call-monitor.md) — _Performance_ · 
 - [FPS Stress Ramp](fps-stress-ramp.md) — _Performance_ · 
 - [Instanced Stress](instanced-stress.md) — _Performance_ · 
+- [LOD Stress](lod-stress.md) — _Performance_ · 
