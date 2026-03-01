@@ -81,3 +81,4 @@ One reference page per scene in the lab.
 - [FPS Stress Ramp](fps-stress-ramp.md) — _Performance_ · 
 - [Instanced Stress](instanced-stress.md) — _Performance_ · 
 - [LOD Stress](lod-stress.md) — _Performance_ · 
+- [Merged Geometry](merged-geometry.md) — _Performance_ · 
