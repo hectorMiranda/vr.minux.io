@@ -82,3 +82,4 @@ One reference page per scene in the lab.
 - [Instanced Stress](instanced-stress.md) — _Performance_ · 
 - [LOD Stress](lod-stress.md) — _Performance_ · 
 - [Merged Geometry](merged-geometry.md) — _Performance_ · 
+- [Points Stress](points-stress.md) — _Performance_ · 
