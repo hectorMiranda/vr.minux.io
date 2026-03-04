@@ -83,3 +83,4 @@ One reference page per scene in the lab.
 - [LOD Stress](lod-stress.md) — _Performance_ · 
 - [Merged Geometry](merged-geometry.md) — _Performance_ · 
 - [Points Stress](points-stress.md) — _Performance_ · 
+- [Cloth Simulation](cloth-sim.md) — _Effects_ · 
