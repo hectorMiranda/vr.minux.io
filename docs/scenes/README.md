@@ -85,3 +85,4 @@ One reference page per scene in the lab.
 - [Points Stress](points-stress.md) — _Performance_ · 
 - [Cloth Simulation](cloth-sim.md) — _Effects_ · 
 - [Particle Fountain](particle-fountain.md) — _Effects_ · A particle fountain with gravity, respawn, additive blending, and color-over-life from blue to white.
+- [Physics Stack](physics-stack.md) — _Effects_ · 
