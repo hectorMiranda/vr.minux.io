@@ -87,3 +87,4 @@ One reference page per scene in the lab.
 - [Particle Fountain](particle-fountain.md) — _Effects_ · A particle fountain with gravity, respawn, additive blending, and color-over-life from blue to white.
 - [Physics Stack](physics-stack.md) — _Effects_ · 
 - [Trail Ribbon](trail-ribbon.md) — _Effects_ · A moving emitter traces a Lissajous path and leaves a dynamic ribbon trail with color gradient from tail to head.
+- [Audio Reactive](audio-reactive.md) — _Audio_ · 
