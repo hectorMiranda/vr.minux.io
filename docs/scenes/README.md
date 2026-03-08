@@ -88,3 +88,4 @@ One reference page per scene in the lab.
 - [Physics Stack](physics-stack.md) — _Effects_ · 
 - [Trail Ribbon](trail-ribbon.md) — _Effects_ · A moving emitter traces a Lissajous path and leaves a dynamic ribbon trail with color gradient from tail to head.
 - [Audio Reactive](audio-reactive.md) — _Audio_ · 
+- [Spatial Audio](spatial-audio.md) — _Audio_ · An oscillator-driven PositionalAudio source orbits the listener; HRTF panning follows camera position. Starts on first user gesture.
