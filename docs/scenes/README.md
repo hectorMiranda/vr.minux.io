@@ -91,3 +91,4 @@ One reference page per scene in the lab.
 - [Spatial Audio](spatial-audio.md) — _Audio_ · An oscillator-driven PositionalAudio source orbits the listener; HRTF panning follows camera position. Starts on first user gesture.
 - [AR Anchors](ar-anchors.md) — _AR_ · Places objects using XRAnchors (when supported) so they stay fixed; falls back to world-space transforms; shows an anchor count label.
 - [AR DOM Overlay](ar-dom-overlay.md) — _AR_ · Uses a DOM overlay element to show AR controls and instructions over the camera feed; element is removed on dispose.
+- [AR Hit-Test](ar-hit-test.md) — _AR_ · Requests a hit-test source and places a reticle on detected surfaces; tap to drop a marker.
