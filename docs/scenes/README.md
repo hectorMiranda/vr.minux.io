@@ -93,3 +93,4 @@ One reference page per scene in the lab.
 - [AR DOM Overlay](ar-dom-overlay.md) — _AR_ · Uses a DOM overlay element to show AR controls and instructions over the camera feed; element is removed on dispose.
 - [AR Hit-Test](ar-hit-test.md) — _AR_ · Requests a hit-test source and places a reticle on detected surfaces; tap to drop a marker.
 - [AR Light Estimation](ar-light-estimation.md) — _AR_ · Drives ambient and directional lights from the XR light estimate; shows estimated intensity; desktop animates a day/night cycle.
+- [AR Measure](ar-measure.md) — _AR_ · Place two points with select to draw a line and display the distance in meters between them.
