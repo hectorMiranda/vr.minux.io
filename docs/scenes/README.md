@@ -95,3 +95,4 @@ One reference page per scene in the lab.
 - [AR Light Estimation](ar-light-estimation.md) — _AR_ · Drives ambient and directional lights from the XR light estimate; shows estimated intensity; desktop animates a day/night cycle.
 - [AR Measure](ar-measure.md) — _AR_ · Place two points with select to draw a line and display the distance in meters between them.
 - [AR Passthrough](ar-passthrough.md) — _AR_ · Minimal AR scene: translucent floating cubes rendered over the passthrough camera feed with alpha-blended background.
+- [AR Place Objects](ar-place-objects.md) — _AR_ · Tap to place a tiny procedural robot at the hit-test reticle; keep multiple placed objects.
