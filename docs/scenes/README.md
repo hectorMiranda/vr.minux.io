@@ -98,3 +98,4 @@ One reference page per scene in the lab.
 - [AR Place Objects](ar-place-objects.md) — _AR_ · Tap to place a tiny procedural robot at the hit-test reticle; keep multiple placed objects.
 - [AR Plane Detection](ar-plane-detect.md) — _AR_ · Visualizes WebXR-detected planes as translucent coloured polygons; shows mock planes on desktop.
 - [AR Reticle](ar-reticle.md) — _AR_ · Styled ring + crosshair reticle that follows hit-test poses with a pulsing animation.
+- [AR Shadow Catcher](ar-shadow-catcher.md) — _AR_ · A ShadowMaterial ground plane catches the shadow of a hovering virtual object, blending it with the real floor.
