@@ -1,3 +1,4 @@
 [
-    {"term": "WebXR", "definition": "The browser API for building immersive VR and AR experiences."}
+    {"term": "WebXR", "definition": "The browser API for building immersive VR and AR experiences."},
+    {"term": "Immersive VR", "definition": "A fully synthetic stereo scene that replaces the user's view ('immersive-vr')."}
 ]
