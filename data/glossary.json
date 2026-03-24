@@ -2,5 +2,6 @@
     {"term": "WebXR", "definition": "The browser API for building immersive VR and AR experiences."},
     {"term": "Immersive VR", "definition": "A fully synthetic stereo scene that replaces the user's view ('immersive-vr')."},
     {"term": "Immersive AR", "definition": "Virtual content composited over the real world via passthrough or see-through optics ('immersive-ar')."},
-    {"term": "Inline session", "definition": "A non-immersive XR session rendered inside a normal page element."}
+    {"term": "Inline session", "definition": "A non-immersive XR session rendered inside a normal page element."},
+    {"term": "Reference space", "definition": "A coordinate system XRFrame poses are reported in (local, local-floor, bounded-floor, unbounded, viewer)."}
 ]
