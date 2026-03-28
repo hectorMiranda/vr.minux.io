@@ -7,5 +7,6 @@
     {"term": "local-floor", "definition": "A reference space whose origin sits on the floor beneath the user."},
     {"term": "bounded-floor", "definition": "A floor-level space bounded by a polygon the user defined (their play area)."},
     {"term": "6DoF", "definition": "Six degrees of freedom: tracked position and rotation."},
-    {"term": "3DoF", "definition": "Three degrees of freedom: rotation only, no positional tracking."}
+    {"term": "3DoF", "definition": "Three degrees of freedom: rotation only, no positional tracking."},
+    {"term": "IPD", "definition": "Interpupillary distance \u2014 the spacing between the eyes, used to set up the stereo cameras."}
 ]
