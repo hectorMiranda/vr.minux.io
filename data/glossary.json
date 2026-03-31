@@ -10,5 +10,6 @@
     {"term": "3DoF", "definition": "Three degrees of freedom: rotation only, no positional tracking."},
     {"term": "IPD", "definition": "Interpupillary distance \u2014 the spacing between the eyes, used to set up the stereo cameras."},
     {"term": "Field of view", "definition": "The angular extent of the scene visible through the headset optics."},
-    {"term": "Foveated rendering", "definition": "Rendering the periphery at lower resolution to save GPU; see renderer.xr.setFoveation()."}
+    {"term": "Foveated rendering", "definition": "Rendering the periphery at lower resolution to save GPU; see renderer.xr.setFoveation()."},
+    {"term": "Reprojection", "definition": "Warping the last rendered frame to the latest head pose to hide dropped frames (a.k.a. spacewarp)."}
 ]
