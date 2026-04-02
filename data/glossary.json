@@ -12,5 +12,6 @@
     {"term": "Field of view", "definition": "The angular extent of the scene visible through the headset optics."},
     {"term": "Foveated rendering", "definition": "Rendering the periphery at lower resolution to save GPU; see renderer.xr.setFoveation()."},
     {"term": "Reprojection", "definition": "Warping the last rendered frame to the latest head pose to hide dropped frames (a.k.a. spacewarp)."},
-    {"term": "Passthrough", "definition": "Showing the headset's camera feed of the real world behind virtual content."}
+    {"term": "Passthrough", "definition": "Showing the headset's camera feed of the real world behind virtual content."},
+    {"term": "Guardian / Chaperone", "definition": "The play-area boundary system that warns the user before they leave a safe space."}
 ]
