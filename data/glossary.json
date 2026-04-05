@@ -14,5 +14,6 @@
     {"term": "Reprojection", "definition": "Warping the last rendered frame to the latest head pose to hide dropped frames (a.k.a. spacewarp)."},
     {"term": "Passthrough", "definition": "Showing the headset's camera feed of the real world behind virtual content."},
     {"term": "Guardian / Chaperone", "definition": "The play-area boundary system that warns the user before they leave a safe space."},
-    {"term": "Hit test", "definition": "An AR query that intersects a ray with detected real-world geometry."}
+    {"term": "Hit test", "definition": "An AR query that intersects a ray with detected real-world geometry."},
+    {"term": "Anchor", "definition": "A pose that the runtime keeps fixed to a point in the real world as tracking refines."}
 ]
