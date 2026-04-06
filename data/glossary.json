@@ -16,5 +16,6 @@
     {"term": "Guardian / Chaperone", "definition": "The play-area boundary system that warns the user before they leave a safe space."},
     {"term": "Hit test", "definition": "An AR query that intersects a ray with detected real-world geometry."},
     {"term": "Anchor", "definition": "A pose that the runtime keeps fixed to a point in the real world as tracking refines."},
-    {"term": "Plane detection", "definition": "Detecting real-world planar surfaces (floors, walls, tables) as XRPlane objects."}
+    {"term": "Plane detection", "definition": "Detecting real-world planar surfaces (floors, walls, tables) as XRPlane objects."},
+    {"term": "Mesh detection", "definition": "Reconstructing a triangle mesh of the real environment."}
 ]
