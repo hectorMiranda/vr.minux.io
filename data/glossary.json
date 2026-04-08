@@ -18,5 +18,6 @@
     {"term": "Anchor", "definition": "A pose that the runtime keeps fixed to a point in the real world as tracking refines."},
     {"term": "Plane detection", "definition": "Detecting real-world planar surfaces (floors, walls, tables) as XRPlane objects."},
     {"term": "Mesh detection", "definition": "Reconstructing a triangle mesh of the real environment."},
-    {"term": "Depth sensing", "definition": "Per-pixel real-world depth, used for occlusion of virtual objects."}
+    {"term": "Depth sensing", "definition": "Per-pixel real-world depth, used for occlusion of virtual objects."},
+    {"term": "Light estimation", "definition": "Inferring real-world lighting so virtual objects are lit consistently."}
 ]
