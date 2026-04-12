@@ -21,5 +21,6 @@
     {"term": "Depth sensing", "definition": "Per-pixel real-world depth, used for occlusion of virtual objects."},
     {"term": "Light estimation", "definition": "Inferring real-world lighting so virtual objects are lit consistently."},
     {"term": "DOM overlay", "definition": "An HTML layer drawn over a handheld immersive-AR session."},
-    {"term": "Hand tracking", "definition": "Skeletal hand input exposing 25 joint poses per hand."}
+    {"term": "Hand tracking", "definition": "Skeletal hand input exposing 25 joint poses per hand."},
+    {"term": "Pinch", "definition": "The thumb-to-index gesture commonly used as a hand 'select'."}
 ]
