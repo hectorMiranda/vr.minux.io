@@ -22,5 +22,6 @@
     {"term": "Light estimation", "definition": "Inferring real-world lighting so virtual objects are lit consistently."},
     {"term": "DOM overlay", "definition": "An HTML layer drawn over a handheld immersive-AR session."},
     {"term": "Hand tracking", "definition": "Skeletal hand input exposing 25 joint poses per hand."},
-    {"term": "Pinch", "definition": "The thumb-to-index gesture commonly used as a hand 'select'."}
+    {"term": "Pinch", "definition": "The thumb-to-index gesture commonly used as a hand 'select'."},
+    {"term": "Target ray space", "definition": "The pointing ray originating from a controller or hand."}
 ]
