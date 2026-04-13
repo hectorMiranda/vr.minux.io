@@ -23,5 +23,6 @@
     {"term": "DOM overlay", "definition": "An HTML layer drawn over a handheld immersive-AR session."},
     {"term": "Hand tracking", "definition": "Skeletal hand input exposing 25 joint poses per hand."},
     {"term": "Pinch", "definition": "The thumb-to-index gesture commonly used as a hand 'select'."},
-    {"term": "Target ray space", "definition": "The pointing ray originating from a controller or hand."}
+    {"term": "Target ray space", "definition": "The pointing ray originating from a controller or hand."},
+    {"term": "Grip space", "definition": "The pose where a held virtual object should attach to the controller."}
 ]
