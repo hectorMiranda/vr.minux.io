@@ -25,5 +25,6 @@
     {"term": "Pinch", "definition": "The thumb-to-index gesture commonly used as a hand 'select'."},
     {"term": "Target ray space", "definition": "The pointing ray originating from a controller or hand."},
     {"term": "Grip space", "definition": "The pose where a held virtual object should attach to the controller."},
-    {"term": "Input source", "definition": "An XR input: a motion controller, a tracked hand, or transient gaze/touch."}
+    {"term": "Input source", "definition": "An XR input: a motion controller, a tracked hand, or transient gaze/touch."},
+    {"term": "XR gamepad", "definition": "The buttons/axes mapping exposed for a motion controller via the Gamepad API."}
 ]
