@@ -29,5 +29,6 @@
     {"term": "XR gamepad", "definition": "The buttons/axes mapping exposed for a motion controller via the Gamepad API."},
     {"term": "Haptics", "definition": "Vibration feedback delivered through a controller's haptic actuators."},
     {"term": "Stage / room-scale", "definition": "A play space large enough to walk around in, versus seated/standing."},
-    {"term": "Comfort vignette", "definition": "Darkening the periphery during motion to reduce simulator sickness."}
+    {"term": "Comfort vignette", "definition": "Darkening the periphery during motion to reduce simulator sickness."},
+    {"term": "Snap turn", "definition": "Rotating the view in discrete steps instead of smoothly, to reduce sickness."}
 ]
