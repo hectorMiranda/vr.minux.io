@@ -28,5 +28,6 @@
     {"term": "Input source", "definition": "An XR input: a motion controller, a tracked hand, or transient gaze/touch."},
     {"term": "XR gamepad", "definition": "The buttons/axes mapping exposed for a motion controller via the Gamepad API."},
     {"term": "Haptics", "definition": "Vibration feedback delivered through a controller's haptic actuators."},
-    {"term": "Stage / room-scale", "definition": "A play space large enough to walk around in, versus seated/standing."}
+    {"term": "Stage / room-scale", "definition": "A play space large enough to walk around in, versus seated/standing."},
+    {"term": "Comfort vignette", "definition": "Darkening the periphery during motion to reduce simulator sickness."}
 ]
