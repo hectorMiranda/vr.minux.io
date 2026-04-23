@@ -33,5 +33,6 @@
     {"term": "Snap turn", "definition": "Rotating the view in discrete steps instead of smoothly, to reduce sickness."},
     {"term": "Locomotion", "definition": "Any technique for moving the player through a virtual space."},
     {"term": "PMREM", "definition": "Prefiltered, mipmapped radiance environment map used for physically based reflections."},
-    {"term": "Instancing", "definition": "Drawing many copies of a mesh in a single draw call (THREE.InstancedMesh)."}
+    {"term": "Instancing", "definition": "Drawing many copies of a mesh in a single draw call (THREE.InstancedMesh)."},
+    {"term": "WebGL", "definition": "The GPU rendering API three.js uses to draw each XR view."}
 ]
