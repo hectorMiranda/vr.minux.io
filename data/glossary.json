@@ -34,5 +34,6 @@
     {"term": "Locomotion", "definition": "Any technique for moving the player through a virtual space."},
     {"term": "PMREM", "definition": "Prefiltered, mipmapped radiance environment map used for physically based reflections."},
     {"term": "Instancing", "definition": "Drawing many copies of a mesh in a single draw call (THREE.InstancedMesh)."},
-    {"term": "WebGL", "definition": "The GPU rendering API three.js uses to draw each XR view."}
+    {"term": "WebGL", "definition": "The GPU rendering API three.js uses to draw each XR view."},
+    {"term": "WebGPU", "definition": "The next-generation GPU API three.js can target as a WebGL successor."}
 ]
