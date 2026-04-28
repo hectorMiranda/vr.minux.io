@@ -1,5 +1,6 @@
 [
     {"name": "Meta Quest 3", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Color passthrough AR, hand tracking, depth sensing."},
     {"name": "Meta Quest 3S", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Quest 3 feature set at a lower price point."},
-    {"name": "Meta Quest Pro", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Color passthrough plus eye and face tracking."}
+    {"name": "Meta Quest Pro", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Color passthrough plus eye and face tracking."},
+    {"name": "Meta Quest 2", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Monochrome passthrough; very widely deployed."}
 ]
