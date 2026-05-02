@@ -5,5 +5,6 @@
     {"name": "Meta Quest 2", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Monochrome passthrough; very widely deployed."},
     {"name": "Meta Quest 1", "vendor": "Meta", "dof": "6DoF", "vr": true, "ar": false, "hands": true, "notes": "Legacy standalone; VR only."},
     {"name": "Pico 4", "vendor": "ByteDance", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "Passthrough AR and hand tracking in the Pico browser."},
-    {"name": "Pico Neo 3", "vendor": "ByteDance", "dof": "6DoF", "vr": true, "ar": false, "hands": false, "notes": "Standalone VR aimed at enterprise."}
+    {"name": "Pico Neo 3", "vendor": "ByteDance", "dof": "6DoF", "vr": true, "ar": false, "hands": false, "notes": "Standalone VR aimed at enterprise."},
+    {"name": "Apple Vision Pro", "vendor": "Apple", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "WebXR via Safari on visionOS 2+; eye+hand input."}
 ]
