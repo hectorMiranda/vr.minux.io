@@ -9,5 +9,6 @@
     {"name": "Apple Vision Pro", "vendor": "Apple", "dof": "6DoF", "vr": true, "ar": true, "hands": true, "notes": "WebXR via Safari on visionOS 2+; eye+hand input."},
     {"name": "Valve Index", "vendor": "Valve", "dof": "6DoF", "vr": true, "ar": false, "hands": true, "notes": "PCVR via a desktop browser + SteamVR; finger tracking."},
     {"name": "HTC Vive Pro", "vendor": "HTC", "dof": "6DoF", "vr": true, "ar": false, "hands": false, "notes": "PCVR via SteamVR."},
-    {"name": "HTC Vive Focus 3", "vendor": "HTC", "dof": "6DoF", "vr": true, "ar": false, "hands": true, "notes": "Standalone enterprise headset."}
+    {"name": "HTC Vive Focus 3", "vendor": "HTC", "dof": "6DoF", "vr": true, "ar": false, "hands": true, "notes": "Standalone enterprise headset."},
+    {"name": "Microsoft HoloLens 2", "vendor": "Microsoft", "dof": "6DoF", "vr": false, "ar": true, "hands": true, "notes": "See-through immersive-AR with articulated hands."}
 ]
