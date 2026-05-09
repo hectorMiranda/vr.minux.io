@@ -11,5 +11,6 @@
     {"name": "HTC Vive Pro", "vendor": "HTC", "dof": "6DoF", "vr": true, "ar": false, "hands": false, "notes": "PCVR via SteamVR."},
     {"name": "HTC Vive Focus 3", "vendor": "HTC", "dof": "6DoF", "vr": true, "ar": false, "hands": true, "notes": "Standalone enterprise headset."},
     {"name": "Microsoft HoloLens 2", "vendor": "Microsoft", "dof": "6DoF", "vr": false, "ar": true, "hands": true, "notes": "See-through immersive-AR with articulated hands."},
-    {"name": "Magic Leap 2", "vendor": "Magic Leap", "dof": "6DoF", "vr": false, "ar": true, "hands": true, "notes": "See-through AR with a wide field of view."}
+    {"name": "Magic Leap 2", "vendor": "Magic Leap", "dof": "6DoF", "vr": false, "ar": true, "hands": true, "notes": "See-through AR with a wide field of view."},
+    {"name": "Windows Mixed Reality", "vendor": "Microsoft", "dof": "6DoF", "vr": true, "ar": false, "hands": false, "notes": "Legacy PCVR headsets (via older Edge)."}
 ]
