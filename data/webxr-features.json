@@ -1,4 +1,5 @@
 [
     {"feature": "viewer", "description": "Reference space attached to the viewer; always available."},
-    {"feature": "local", "description": "Eye-level reference space with a stable near origin."}
+    {"feature": "local", "description": "Eye-level reference space with a stable near origin."},
+    {"feature": "local-floor", "description": "Floor-relative reference space."}
 ]
