@@ -1,5 +1,6 @@
 [
     {"feature": "viewer", "description": "Reference space attached to the viewer; always available."},
     {"feature": "local", "description": "Eye-level reference space with a stable near origin."},
-    {"feature": "local-floor", "description": "Floor-relative reference space."}
+    {"feature": "local-floor", "description": "Floor-relative reference space."},
+    {"feature": "bounded-floor", "description": "Floor space bounded by the user's configured play area."}
 ]
