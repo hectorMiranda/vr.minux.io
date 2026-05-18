@@ -3,5 +3,6 @@
     {"feature": "local", "description": "Eye-level reference space with a stable near origin."},
     {"feature": "local-floor", "description": "Floor-relative reference space."},
     {"feature": "bounded-floor", "description": "Floor space bounded by the user's configured play area."},
-    {"feature": "unbounded", "description": "Large-scale space that drifts to keep nearby tracking accurate (AR)."}
+    {"feature": "unbounded", "description": "Large-scale space that drifts to keep nearby tracking accurate (AR)."},
+    {"feature": "hand-tracking", "description": "Exposes 25 skeletal joints per hand."}
 ]
