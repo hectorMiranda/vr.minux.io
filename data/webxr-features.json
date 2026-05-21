@@ -5,5 +5,6 @@
     {"feature": "bounded-floor", "description": "Floor space bounded by the user's configured play area."},
     {"feature": "unbounded", "description": "Large-scale space that drifts to keep nearby tracking accurate (AR)."},
     {"feature": "hand-tracking", "description": "Exposes 25 skeletal joints per hand."},
-    {"feature": "hit-test", "description": "Ray queries against real-world surfaces (AR)."}
+    {"feature": "hit-test", "description": "Ray queries against real-world surfaces (AR)."},
+    {"feature": "anchors", "description": "Persisted poses tracked against the real world (AR)."}
 ]
