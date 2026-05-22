@@ -7,5 +7,6 @@
     {"feature": "hand-tracking", "description": "Exposes 25 skeletal joints per hand."},
     {"feature": "hit-test", "description": "Ray queries against real-world surfaces (AR)."},
     {"feature": "anchors", "description": "Persisted poses tracked against the real world (AR)."},
-    {"feature": "plane-detection", "description": "Detected real-world planes as XRPlane objects (AR)."}
+    {"feature": "plane-detection", "description": "Detected real-world planes as XRPlane objects (AR)."},
+    {"feature": "mesh-detection", "description": "Reconstructed real-world geometry mesh (AR)."}
 ]
