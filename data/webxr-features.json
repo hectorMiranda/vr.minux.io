@@ -10,5 +10,6 @@
     {"feature": "plane-detection", "description": "Detected real-world planes as XRPlane objects (AR)."},
     {"feature": "mesh-detection", "description": "Reconstructed real-world geometry mesh (AR)."},
     {"feature": "depth-sensing", "description": "Per-pixel real-world depth for occlusion (AR)."},
-    {"feature": "light-estimation", "description": "Real-world lighting probe and directional estimate (AR)."}
+    {"feature": "light-estimation", "description": "Real-world lighting probe and directional estimate (AR)."},
+    {"feature": "dom-overlay", "description": "An HTML overlay element shown over a handheld AR session."}
 ]
