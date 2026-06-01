@@ -1,0 +1,101 @@
+# Test scenes
+
+One reference page per scene in the lab.
+
+- [Hello Cube](hello-cube.md) — _Basics_ · A single rotating cube — the smallest possible scene.
+- [Axes Helper](axes-helper.md) — _Basics_ · Labeled X/Y/Z axes and a unit grid for spatial orientation reference.
+- [Billboard Sprites](billboard-sprites.md) — _Basics_ · Canvas-painted sprite circles that always face the camera and gently bob.
+- [3D Analog Clock](clock-3d.md) — _Basics_ · A working 3-D analog clock whose hands track the real wall-clock time.
+- [Color Grid](color-grid.md) — _Basics_ · A grid of small cubes sweeping hue (columns) and lightness (rows).
+- [Line Drawing](line-drawing.md) — _Basics_ · An animated Lissajous figure drawn with THREE.Line updating its buffer each frame.
+- [Points Cloud](points-cloud.md) — _Basics_ · Several thousand vertex-colored points arranged as a spiral galaxy, slowly rotating.
+- [Primitives Gallery](primitives-gallery.md) — _Basics_ · A row of all common Three.js primitives slowly rotating side by side.
+- [Spinning Torus Knot](spinning-torus.md) — _Basics_ · A torus knot with a standard PBR material rotating on two axes.
+- [Transform Hierarchy](transform-hierarchy.md) — _Basics_ · Sun, planet, and moon demonstrating nested parent-child Transform rotations.
+- [Wireframe Toggle](wireframe.md) — _Basics_ · An icosahedron that smoothly fades between solid and wireframe render modes.
+- [Convex Hull](convex-hull.md) — _Geometry_ · A ConvexGeometry built around 30 random points, shown semi-transparent with wireframe overlay.
+- [Extruded Star Shape](extrude-shape.md) — _Geometry_ · A 5-pointed star shape extruded with bevel using THREE.ExtrudeGeometry.
+- [Heightfield Terrain](heightfield-terrain.md) — _Geometry_ · A plane displaced by layered sine noise into rolling terrain with elevation-based vertex colors.
+- [Instanced Forest](instanced-forest.md) — _Geometry_ · Hundreds of low-poly instanced trees with gentle wind-sway animation.
+- [Lathe Vase](lathe-vase.md) — _Geometry_ · A ceramic-style vase built with LatheGeometry from a hand-crafted profile curve.
+- [Morph Targets](morph-targets.md) — _Geometry_ · A mesh with morph attributes smoothly blending between a sphere and a cube.
+- [Parametric Surface](parametric-surface.md) — _Geometry_ · An animated ripple surface generated with ParametricGeometry, rebuilt each frame.
+- [Subdivision LOD](subdivision-lod.md) — _Geometry_ · An icosahedron shown at five increasing tessellation levels side by side.
+- [3D Text Geometry](text-geometry-3d.md) — _Geometry_ · Extruded 3D text "MINUX" via TextGeometry; falls back to box placeholders if the font fails.
+- [Tube Knot](tube-knot.md) — _Geometry_ · A TubeGeometry swept along a CatmullRomCurve3 trefoil path, gently spinning.
+- [Button Presses](button-presses.md) — _Input_ · Visualizes each gamepad button as a bar that fills and lights when pressed; auto-animates on desktop.
+- [Controller Haptics](controller-haptics.md) — _Input_ · Buttons that fire haptic pulses of varying intensity and duration; visual flash confirms each pulse.
+- [Controller Models Demo](controller-models-demo.md) — _Input_ · Shows a procedural controller model (body + ring + trigger) attached to each grip space.
+- [Controller Rays](controller-rays.md) — _Input_ · Both controllers cast colored ray lines; a canvas label reports which hands are connected.
+- [Squeeze Grip](squeeze-grip.md) — _Input_ · A stylized hand that closes its fingers proportionally to the squeeze/grip value.
+- [Thumbstick Readout](thumbstick-readout.md) — _Input_ · Shows a 2D crosshair panel tracking thumbstick x/y for each controller; auto-circles on desktop.
+- [Trigger Pressure](trigger-pressure.md) — _Input_ · A bar that fills proportionally to the analog trigger value for each controller.
+- [Hand Joints](hand-joints.md) — _Hands_ · Renders all 25 hand joints as colored spheres; pulses when tracking is active.
+- [Hand Menu](hand-menu.md) — _Hands_ · Shows a radial menu above the left palm when it faces the user; auto-shows on desktop.
+- [Hand Ray](hand-ray.md) — _Hands_ · Casts a ray from the hand and highlights target spheres when the ray intersects them.
+- [Hand Skeleton](hand-skeleton.md) — _Hands_ · Connects hand joints with line segments forming a full hand skeleton.
+- [Pinch Detect](pinch-detect.md) — _Hands_ · Detects thumb-index pinch and spawns a marker at the pinch point; auto-demos on desktop.
+- [3D Button Press](button-3d-press.md) — _Interaction_ · Physical 3D buttons that depress when poked and emit a click event.
+- [Distance Grab](distance-grab.md) — _Interaction_ · Point the controller ray at a distant object and pull it in on select.
+- [Drag Plane](drag-plane.md) — _Interaction_ · Drag a puck around a table-top plane using the select trigger.
+- [Gaze Select](gaze-select.md) — _Interaction_ · Objects fill a progress ring and trigger when looked at for ~1.5 s.
+- [Grab Objects](grab-objects.md) — _Interaction_ · Grab and release small cubes with the grip button.
+- [Hover Highlight](hover-highlight.md) — _Interaction_ · Cubes that scale and tint when the controller ray (or auto-sweep on desktop) points at them.
+- [Rotate Handle](rotate-handle.md) — _Interaction_ · A box with a ring handle you grab to rotate it around the Y axis.
+- [Snap Points](snap-points.md) — _Interaction_ · Draggable pieces that snap to the nearest of several socket positions when released.
+- [Throw Objects](throw-objects.md) — _Interaction_ · Grabbed objects keep velocity on release and arc under gravity.
+- [Two-Hand Scale](two-hand-scale.md) — _Interaction_ · Grab an object with both controllers and scale it by the distance between them.
+- [Blink Move](blink-move.md) — _Locomotion_ · Teleport with a fade-to-black blink overlay masking the position change.
+- [Dash Move](dash-move.md) — _Locomotion_ · Quick eased dash toward where the controller points using easeOutCubic.
+- [Elevator Platform](elevator-platform.md) — _Locomotion_ · Stand on a platform that automatically rises and lowers between floors; the rig tracks the platform.
+- [Fly Move](fly-move.md) — _Locomotion_ · Free 6DoF flight controlled by controller orientation and trigger; auto-flies through a ring course on desktop.
+- [Smooth Locomotion](smooth-locomotion.md) — _Locomotion_ · Glide across a tiled plane using thumbstick input; auto-drifts forward on desktop.
+- [Snap Turn](snap-turn-demo.md) — _Locomotion_ · Pillars arranged in a circle; snap-turn rotates the view 30° per flick with a compass heading indicator.
+- [Teleport Arc](teleport-arc.md) — _Locomotion_ · A floor with scattered pillars; teleport around using a parabolic arc. Desktop shows an animated sweep.
+- [Teleport Marker](teleport-marker.md) — _Locomotion_ · Landing marker styles (ring + normal alignment) on uneven blocks with a sweeping arc indicator.
+- [Context Menu](context-menu.md) — _UI_ · A context menu that opens near a clicked object, cycling through actions.
+- [Follow HUD](follow-hud.md) — _UI_ · A camera-attached HUD panel that displays live position and frame counter.
+- [UI Buttons](ui-buttons.md) — _UI_ · Three Button3D widgets that change a cube\
+- [UI Color Picker](ui-color-picker.md) — _UI_ · Hue and saturation sliders that tint a sphere in real time.
+- [UI Keyboard](ui-keyboard.md) — _UI_ · A 3D QWERTY key grid that appends characters to a canvas-label display.
+- [UI Panel](ui-panel.md) — _UI_ · A rounded backing panel displaying a title and several static text rows.
+- [UI Radio](ui-radio.md) — _UI_ · Mutually-exclusive radio button options with a highlighted active state.
+- [UI Slider](ui-slider.md) — _UI_ · A Slider3D widget that continuously scales a cube from small to large.
+- [UI Tabs](ui-tabs.md) — _UI_ · A tabbed panel with three tabs that cycle through different content views.
+- [UI Toggle](ui-toggle.md) — _UI_ · A Toggle3D switch that turns a point light on and off; auto-cycles on desktop.
+- [Wrist Menu](wrist-menu.md) — _UI_ · A Menu widget attached to the left controller grip, summoned by squeeze.
+- [World Labels](world-label.md) — _Text_ · Floating CanvasTexture labels rendered above world-space objects.
+- [Canvas Texture](canvas-texture.md) — _Rendering_ · A live 2D canvas animation (spirograph trails + particle swarm) streamed as a CanvasTexture onto a panel each frame.
+- [Day-Night Cycle](day-night.md) — _Rendering_ · A scene cycles through dawn, noon, dusk, and night over 24 s; lighting, sky colour, stars, and moon all animate smoothly.
+- [Decals](decals.md) — _Rendering_ · DecalGeometry star splats projected onto a rotating box; falls back to flat textured patches if the addon is unavailable.
+- [Env Reflections](env-reflections.md) — _Rendering_ · PMREM environment generated from a procedural equirect gradient canvas; two rows of spheres vary roughness and metalness.
+- [Fog Demo](fog-demo.md) — _Rendering_ · A corridor of pillars under animated linear and exponential fog; the mode switches every 5 s and density breathes continuously.
+- [Mirror Portal](mirror-portal.md) — _Rendering_ · A Reflector (three/addons) mirror panel in a decorated frame; falls back to a shiny MeshStandardMaterial if the addon is unavailable.
+- [Normal Mapping](normal-mapping.md) — _Rendering_ · A procedurally generated normal map (canvas → per-pixel normals) applied to a sphere and plane, lit by an orbiting point light.
+- [PBR Materials](pbr-materials.md) — _Rendering_ · A 5×5 grid of spheres spanning roughness (rows) × metalness (cols) under a rotating three-point light rig.
+- [Shadows Demo](shadows-demo.md) — _Rendering_ · Multiple objects cast and receive PCFSoft shadows from an orbiting directional light; the shadow-camera helper toggles on/off every 4 s.
+- [Skybox Gradient](skybox-gradient.md) — _Rendering_ · An inverted sphere with a GLSL sky shader cycles through dawn, noon, dusk, and night with an animated sun disc and horizon glow.
+- [Transmission Glass](transmission-glass.md) — _Rendering_ · A MeshPhysicalMaterial glass sphere with transmission/IOR/thickness over a colourful procedural backdrop.
+- [Video Texture Fallback](video-texture-fallback.md) — _Rendering_ · Uses VideoTexture via captureStream if available; falls back to an animated CanvasTexture — never requires a real video file.
+- [Draw Call Monitor](draw-call-monitor.md) — _Performance_ · 
+- [FPS Stress Ramp](fps-stress-ramp.md) — _Performance_ · 
+- [Instanced Stress](instanced-stress.md) — _Performance_ · 
+- [LOD Stress](lod-stress.md) — _Performance_ · 
+- [Merged Geometry](merged-geometry.md) — _Performance_ · 
+- [Points Stress](points-stress.md) — _Performance_ · 
+- [Cloth Simulation](cloth-sim.md) — _Effects_ · 
+- [Particle Fountain](particle-fountain.md) — _Effects_ · A particle fountain with gravity, respawn, additive blending, and color-over-life from blue to white.
+- [Physics Stack](physics-stack.md) — _Effects_ · 
+- [Trail Ribbon](trail-ribbon.md) — _Effects_ · A moving emitter traces a Lissajous path and leaves a dynamic ribbon trail with color gradient from tail to head.
+- [Audio Reactive](audio-reactive.md) — _Audio_ · 
+- [Spatial Audio](spatial-audio.md) — _Audio_ · An oscillator-driven PositionalAudio source orbits the listener; HRTF panning follows camera position. Starts on first user gesture.
+- [AR Anchors](ar-anchors.md) — _AR_ · Places objects using XRAnchors (when supported) so they stay fixed; falls back to world-space transforms; shows an anchor count label.
+- [AR DOM Overlay](ar-dom-overlay.md) — _AR_ · Uses a DOM overlay element to show AR controls and instructions over the camera feed; element is removed on dispose.
+- [AR Hit-Test](ar-hit-test.md) — _AR_ · Requests a hit-test source and places a reticle on detected surfaces; tap to drop a marker.
+- [AR Light Estimation](ar-light-estimation.md) — _AR_ · Drives ambient and directional lights from the XR light estimate; shows estimated intensity; desktop animates a day/night cycle.
+- [AR Measure](ar-measure.md) — _AR_ · Place two points with select to draw a line and display the distance in meters between them.
+- [AR Passthrough](ar-passthrough.md) — _AR_ · Minimal AR scene: translucent floating cubes rendered over the passthrough camera feed with alpha-blended background.
+- [AR Place Objects](ar-place-objects.md) — _AR_ · Tap to place a tiny procedural robot at the hit-test reticle; keep multiple placed objects.
+- [AR Plane Detection](ar-plane-detect.md) — _AR_ · Visualizes WebXR-detected planes as translucent coloured polygons; shows mock planes on desktop.
+- [AR Reticle](ar-reticle.md) — _AR_ · Styled ring + crosshair reticle that follows hit-test poses with a pulsing animation.
+- [AR Shadow Catcher](ar-shadow-catcher.md) — _AR_ · A ShadowMaterial ground plane catches the shadow of a hovering virtual object, blending it with the real floor.

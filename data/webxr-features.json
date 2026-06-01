@@ -1,0 +1,17 @@
+[
+    {"feature": "viewer", "description": "Reference space attached to the viewer; always available."},
+    {"feature": "local", "description": "Eye-level reference space with a stable near origin."},
+    {"feature": "local-floor", "description": "Floor-relative reference space."},
+    {"feature": "bounded-floor", "description": "Floor space bounded by the user's configured play area."},
+    {"feature": "unbounded", "description": "Large-scale space that drifts to keep nearby tracking accurate (AR)."},
+    {"feature": "hand-tracking", "description": "Exposes 25 skeletal joints per hand."},
+    {"feature": "hit-test", "description": "Ray queries against real-world surfaces (AR)."},
+    {"feature": "anchors", "description": "Persisted poses tracked against the real world (AR)."},
+    {"feature": "plane-detection", "description": "Detected real-world planes as XRPlane objects (AR)."},
+    {"feature": "mesh-detection", "description": "Reconstructed real-world geometry mesh (AR)."},
+    {"feature": "depth-sensing", "description": "Per-pixel real-world depth for occlusion (AR)."},
+    {"feature": "light-estimation", "description": "Real-world lighting probe and directional estimate (AR)."},
+    {"feature": "dom-overlay", "description": "An HTML overlay element shown over a handheld AR session."},
+    {"feature": "layers", "description": "WebXR compositor layers (quad, cylinder, equirect) for crisp UI/video."},
+    {"feature": "secondary-views", "description": "Extra views such as a first-person spectator/observer camera."}
+]
